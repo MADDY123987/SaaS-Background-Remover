@@ -1,0 +1,21 @@
+# Node / React
+node_modules/
+build/
+dist/
+
+# Python
+__pycache__/
+*.pyc
+
+# Java
+target/
+*.class
+*.iml
+
+# JetBrains + VS Code
+.vscode/
+.idea/
+
+# Env files
+*.env
+.env.*
